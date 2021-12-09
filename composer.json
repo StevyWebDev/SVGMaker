@@ -1,0 +1,17 @@
+{
+    "name": "vergu/svg",
+    "authors": [
+        {
+            "name": "StevyWebDev",
+            "email": "StevyWebDev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Model\\": "Models/",
+            "Controller\\": "Controllers/",
+            "App\\": "App"
+        }
+    },
+    "require": {}
+}
